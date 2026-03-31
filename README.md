@@ -13,6 +13,9 @@ ER diagram:
 Relational schema:
 ![Relational Schema](Documents/Diagrams/relational_schema.png)
 
+UML class diagram (Back-end):
+![UML Class Diagram](Documents/Diagrams/uml_class_diagram.png)
+
 ## Related Links
 - [Link to the Trello boards](https://trello.com/w/sep1_group5/home)
 - [Link to the Backend repo](https://github.com/RZ-Metropolia/assignment_submission_system_be)
