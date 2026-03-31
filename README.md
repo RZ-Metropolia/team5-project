@@ -2,7 +2,7 @@
 
 This repository contains the Homework Submission System. The project backend is implemented with Java Spring Boot and the desktop frontend uses Electron. The system supports student assignment submissions, instructor assignment and grading workflows, and administrative user/course management.
 
-## Database Design
+## Diagrams
 
 Use case diagram:
 ![Use Case Diagram](Documents/Diagrams/use_case_diagram.png)
@@ -15,6 +15,9 @@ Relational schema:
 
 UML class diagram (Back-end):
 ![UML Class Diagram](Documents/Diagrams/uml_class_diagram.png)
+
+User Sign-up & Log-in Activity Diagram:
+![Entrance Activity Diagram](Documents/Diagrams/entrance_activity_diagram.png)
 
 ## Related Links
 - [Link to the Trello boards](https://trello.com/w/sep1_group5/home)
