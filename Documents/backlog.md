@@ -24,3 +24,7 @@
 1. As a Student, I want to archive outdated courses so that I can focus on current courses.
 1. As a Student, I want to see my due dates on a calendar picture instead of a list so that I can plan my week better.
 1. As a Student, I want to save an assignment as a 'Draft' without showing it to teachers so that I can finish the assignments later.
+
+# General
+1. As a User, I want to be able to change the application language to Chinese so that I can use the platform in my native language.
+1. As a User, I want to be able to change the application language to Japanese so that I can use the platform in my native language.
