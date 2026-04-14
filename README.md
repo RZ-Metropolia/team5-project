@@ -19,6 +19,12 @@ UML class diagram (Back-end):
 User Sign-up & Log-in Activity Diagram:
 ![Entrance Activity Diagram](Documents/Diagrams/entrance_activity_diagram.png)
 
+Localization Entity Diagram:
+![Localization Entity Diagram](Documents/Diagrams/localization_er.png)
+
+Localization UML Diagram:
+![Localization UML Diagram](Documents/Diagrams/localization_uml.png)
+
 ## Localization Support
 
 The system now features full internationalization (i18n) for the desktop interface to support a global user base.
