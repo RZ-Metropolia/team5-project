@@ -33,6 +33,8 @@ The system now features full internationalization (i18n) for the desktop interfa
 - English (US) — `en-US`
 - Simplified Chinese (简体中文) — `zh-CN`
 - Japanese (日本語) — `ja-JP`
+- Persian (فارسی) — `fa-IR`
+- Arabic (العربية) — `ar-SA`
 
 ### How to Select a Language
 There are two primary ways to switch the application language:
