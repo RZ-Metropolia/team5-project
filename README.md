@@ -13,6 +13,9 @@ ER diagram:
 Relational schema:
 ![Relational Schema](Documents/Diagrams/relational_schema.png)
 
+Package diagram:
+![Package Diagram](Documents/Diagrams/package-diagram.png)
+
 UML class diagram (Back-end):
 ![UML Class Diagram](Documents/Diagrams/uml_class_diagram.png)
 
