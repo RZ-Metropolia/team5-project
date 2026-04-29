@@ -4,29 +4,11 @@ This repository contains the Homework Submission System. The project backend is 
 
 ## Diagrams
 
-Use case diagram:
-![Use Case Diagram](Documents/Diagrams/use_case_diagram.png)
-
-ER diagram:
-![ER Diagram](Documents/Diagrams/er_diagram.png)
-
 Relational schema:
 ![Relational Schema](Documents/Diagrams/relational_schema.png)
 
-Package diagram:
-![Package Diagram](Documents/Diagrams/package-diagram.png)
-
 UML class diagram (Back-end):
 ![UML Class Diagram](Documents/Diagrams/uml_class_diagram.png)
-
-User Sign-up & Log-in Activity Diagram:
-![Entrance Activity Diagram](Documents/Diagrams/entrance_activity_diagram.png)
-
-Localization Entity Diagram:
-![Localization Entity Diagram](Documents/Diagrams/localization_er.png)
-
-Localization UML Diagram:
-![Localization UML Diagram](Documents/Diagrams/localization_uml.png)
 
 ## Localization Support
 
