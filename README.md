@@ -131,7 +131,7 @@ This repository is the documentation repository. The runnable project is in the 
 - frontend: [assignment_submission_system_fe](https://github.com/MTP2024SE-GROUP5/assignment_submission_system_fe)
 - backend: [assignment_submission_system_be](https://github.com/RZ-Metropolia/assignment_submission_system_be)
 - docker image: [Backend Docker Image](https://hub.docker.com/repository/docker/ruiz890/assignment-submission-system-be/general)
-
+- trello board: [Project Trello Board](https://trello.com/w/sep1_group5)
 ### Frontend Setup
 
 ```bash
