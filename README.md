@@ -180,7 +180,7 @@ npm run test:coverage
 |---|---|
 | Chun He | Developer and Tester |
 | Juyin Tang | Developer and Tester |
-| Zongru Li | Backend Developer |
+| Zongru Li | Frontend Developer |
 | Rui Zhao | Backend Developer |
 
 Course: **Software Engineering Project 2**  
